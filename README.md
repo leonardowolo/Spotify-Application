@@ -1,4 +1,4 @@
-# SPOTIFY APPLICATION
+# Spotify Application
 Spotify Application for searching artist.
 
 ## Installation
